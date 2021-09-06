@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Connor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**connor-bechthold/connor-bechthold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Currently a 2A Computer Engineering Student @ UWaterloo📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Previously a fullstack developer @ Sky View Suites🏠
+ 
+- Trying to automate all of my problems away🤖
+
+- Open to new opportunities!⚙️
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=connor-bechthold&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connor-bechthold&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

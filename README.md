@@ -1,13 +1,11 @@
 ### Hey, I'm Connor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- Currently a 2A Computer Engineering Student @ UWaterloo📚
+- Currently a 2A Computer Engineering Student @ UWaterloo 📚
 
-- Previously a fullstack developer @ Sky View Suites🏠
+- Software Developer at Cineplex Digital Media 📽️
  
-- Trying to automate all of my problems away🤖
-
-- Open to new opportunities!⚙️
+- Open to Fall 2022 Opportunities!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=connor-bechthold&show_icons=true)
